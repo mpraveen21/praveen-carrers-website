@@ -1,2 +1,2 @@
-install Flask
-install guicorn
+ Flask
+ guicorn
